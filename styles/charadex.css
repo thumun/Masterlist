@@ -10,14 +10,14 @@
 :root {
 
   /* Primary Color */
-  --ml-primary:                 #F2A68D;
-  --ml-primary-hover:           #d6866b;
+  --ml-primary:                 #DDD3C2;
+  --ml-primary-hover:           #cfc5b4;
 
   /* Main Page Styles */
   --ml-body-bg:                 #45CADF;
   --ml-body-text:               #000;
   --ml-body-image:              url();
-  --ml-borders:                 #D5D0CC;
+  --ml-borders:                 #1BBCD2;
   --ml-border-radius:           1rem;
 
   /* Navbar */
