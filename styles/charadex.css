@@ -10,14 +10,14 @@
 :root {
 
   /* Primary Color */
-  --ml-primary:                 #78A4AF;
-  --ml-primary-hover:           #4A7C87;
+  --ml-primary:                 #ECEFF6;
+  --ml-primary-hover:           #BFCDD6;
 
   /* Main Page Styles */
-  --ml-body-bg:                 #ECEFF6;
+  --ml-body-bg:                 #4A7C87;
   --ml-body-text:               #000;
   --ml-body-image:              url();
-  --ml-borders:                 #BFCDD6;
+  --ml-borders:                 #114B4F;
   --ml-border-radius:           1rem;
 
   /* Navbar */
@@ -37,9 +37,9 @@
   --ml-page-link-border:        transparent;
 
   /* Cards */
-  --ml-card-bg:                 #F3F4F8;
+  --ml-card-bg:                 #78A4AF;
   --ml-card-border:             var(--ml-borders);
-  --ml-card-header-bg:          #BFCDD6;
+  --ml-card-header-bg:          #114B4F;
 
   /* Main Fonts */
   --ml-body-font:               'Montserrat', sans-serif;
