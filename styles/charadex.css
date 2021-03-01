@@ -59,7 +59,7 @@ body {
 
   /* Global Background */
   background-color: var(--ml-body-bg);
-  background-image: url("Wallpaper_2.png");
+  background-image: url("Wallpaper.png");
   background-repeat: repeat-x, repeat-y;
   background-position: center;
   background-size: cover;
