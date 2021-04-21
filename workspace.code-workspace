@@ -3,10 +3,6 @@
 		{
 			"name": "Masterlist",
 			"path": "."
-		},
-		{
-			"name": "assets",
-			"path": "../../Haverford/hackathon 2021/plantfood1.0/assets"
 		}
 	],
 	"settings": {}
